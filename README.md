@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=mykola-vrmchk&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mykola-vrmchk&theme=onedark&column=6&margin-w=23&margin-h=23&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Mykola Veremchuk GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=mykola-vrmchk&show_icons=true&theme=monokai) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mykola-vrmchk&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
 
