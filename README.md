@@ -2,4 +2,4 @@
 
 [![Mykola Veremchuk GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=mykola-vrmchk&show_icons=true&theme=monokai&hide_border=true&card_width=470px)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mykola-vrmchk&theme=monokai&hide_border=true&card_width=470px)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mykola-vrmchk&theme=monokai&hide_border=true&card_width=470px)](https://github.com/anuraghazra/github-readme-stats) -->
