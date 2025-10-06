@@ -1,4 +1,4 @@
-[<img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg" alt="drawing" width="800px"/>](https://savelife.in.ua/en/)
+[<img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg" alt="drawing" width="800px"/>](https://savelife.in.ua/en/donate-en/)
 
 <!-- [![Mykola Veremchuk GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=mykola-vrmchk&show_icons=true&theme=monokai&hide_border=true&card_width=800px)](https://github.com/anuraghazra/github-readme-stats) -->
 
